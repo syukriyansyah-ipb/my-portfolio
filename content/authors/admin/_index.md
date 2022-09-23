@@ -11,13 +11,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: syukrieyansyah@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/syukriyansyah-ipb
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/syukriyansyah
 organizations:
   - name: Sakhi Media Solution
     url: https://www.sakhimedia.co.id
